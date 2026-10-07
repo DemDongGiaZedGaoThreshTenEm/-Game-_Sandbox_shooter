@@ -80,5 +80,7 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
+/[Aa]ssets/_ThirdParty/POLYGON Weapons/
+
 /.idea
 /Assets/GitIgnore
